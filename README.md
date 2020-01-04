@@ -42,7 +42,7 @@ There is a simple endpoint that generates the CFD.
 ```
 
 ### CFD
-![](https://github.com/valentim/ag-cfd-saver/example/cfd.png)
+![](/example/cfd.png?raw=true)
 
 ## License
 
