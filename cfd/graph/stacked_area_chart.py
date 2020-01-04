@@ -8,4 +8,4 @@ def save(x, y, labels):
     plt.stackplot(x,y, labels=labels)
     plt.legend(loc='upper left')
     fig.autofmt_xdate()
-    plt.savefig('../example/books_read.png')
+    plt.savefig('../example/cfd.png')
