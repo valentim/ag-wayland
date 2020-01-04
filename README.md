@@ -8,10 +8,10 @@ pip install -r requirements.txt
 
 ## Usage
 There are two ways to start the server:
-1 - Enter into the cfd directory and execute the command below:
+1 - Enter into the cfd directory and execute the command below:  
 `python server.py`
 
-2 - Enter into the cfd directory and use the devtools:
+2 - Enter into the cfd directory and use the devtools:  
 `adev runserver --port 8080`
 
 The main difference between these two ways is that the second is better to the development because it has resources like debug mode and live reload.
