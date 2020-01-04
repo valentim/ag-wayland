@@ -1,4 +1,7 @@
 from aiohttp import web
 from main import create_app
+import os
 
-web.run_app(main.create_app(), port=port)
+port = os.getenv('PORT')
+
+web.run_app(create_app(), port=port)
