@@ -1,2 +1,4 @@
 env/
-cfd/**/__pycache__/
+.vscode/
+*.pyc
+*/*/__pycache__/
