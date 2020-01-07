@@ -1,5 +1,5 @@
-# AG CFD Saver
-The AG CFD Saver is a microservice responsible for Cumulative Flow Diagram generation. It was written 100% in python and uses AIOHTTP client/server framework in the base.
+# AG Wayland
+The AG Wayland is a microservice responsible for Cumulative Flow Diagram generation. It was written 100% in python and uses AIOHTTP client/server framework in the base.
 
 ## Install
 ```bash
