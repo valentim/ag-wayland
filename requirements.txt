@@ -27,7 +27,7 @@ mock==3.0.5
 monotonic==1.5
 more-itertools==8.0.2
 multidict==4.7.3
-numpy==1.18.0
+numpy==1.22.0
 packaging==19.2
 path==13.1.0
 path.py==12.4.0
